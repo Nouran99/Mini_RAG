@@ -1,0 +1,7 @@
+cd /mnt/d/My_Projects/Mini_RAG_APP/
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.shch
+chmod +x Miniconda3-latest-Linux-x86_64.sh
+./Miniconda3-latest-Linux-x86_64.sh
+q
+remember to change no to yes
+bash ~/.profile
